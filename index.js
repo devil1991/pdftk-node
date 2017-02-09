@@ -1,1 +1,1 @@
-module.exports = return './pdftk/bin/pdftk '
+module.exports = return __dirname + './pdftk/bin/pdftk '
