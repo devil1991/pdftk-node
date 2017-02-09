@@ -1,0 +1,19 @@
+{
+  "name": "pdftk-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devil1991/pdftk-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devil1991/pdftk-node/issues"
+  },
+  "homepage": "https://github.com/devil1991/pdftk-node#readme"
+}
